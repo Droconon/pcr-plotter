@@ -72,7 +72,3 @@ The script generates amplification plots and saves them to the specified output 
 
 - Ensure the run data CSV files contain well data in columns with names starting with row letters and followed by well numbers (e.g., C3, D4).
 - The "Cycle" column must be present in the data, and should contain numeric values representing the PCR cycle numbers.
-
-## Contributors
-
-- Connor Reintjes [@Droconon] - Author
